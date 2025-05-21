@@ -1,7 +1,0 @@
-{
-  "package_name": "training_interfaces",
-  "non_idl_tuples": [
-    "/home/rishabh/humble_root1/src/training_interfaces:msg/Person.msg",
-    "/home/rishabh/humble_root1/src/training_interfaces:srv/Value.srv"
-  ]
-}
