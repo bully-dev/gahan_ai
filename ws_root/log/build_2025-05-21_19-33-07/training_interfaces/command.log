@@ -1,0 +1,6 @@
+Invoking command in '/home/rishabh/humble_root1/build/training_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rishabh/humble_root1/src/training_interfaces -DCMAKE_INSTALL_PREFIX=/home/rishabh/humble_root1/install/training_interfaces
+Invoked command in '/home/rishabh/humble_root1/build/training_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rishabh/humble_root1/src/training_interfaces -DCMAKE_INSTALL_PREFIX=/home/rishabh/humble_root1/install/training_interfaces
+Invoking command in '/home/rishabh/humble_root1/build/training_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rishabh/humble_root1/build/training_interfaces -- -j4 -l4
+Invoked command in '/home/rishabh/humble_root1/build/training_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rishabh/humble_root1/build/training_interfaces -- -j4 -l4
+Invoking command in '/home/rishabh/humble_root1/build/training_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rishabh/humble_root1/build/training_interfaces
+Invoked command in '/home/rishabh/humble_root1/build/training_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rishabh/humble_root1/build/training_interfaces
